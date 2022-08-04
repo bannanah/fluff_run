@@ -1,0 +1,4 @@
+C:/Users/banna/CLionProjects/fluff run/cmake-build-debug/CMakeFiles/fluff-run.dir
+C:/Users/banna/CLionProjects/fluff run/cmake-build-debug/CMakeFiles/fluff-run-test.dir
+C:/Users/banna/CLionProjects/fluff run/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/banna/CLionProjects/fluff run/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,28 @@
+"C:\Program Files\JetBrains\CLion 2022.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.1.2/bin/ninja/win/ninja.exe" -G Ninja -S "C:\Users\banna\CLionProjects\fluff run" -B "C:\Users\banna\CLionProjects\fluff run\cmake-build-debug"
+CMake Deprecation Warning at C:/Users/banna/Cinder/proj/cmake/modules/cinderMakeApp.cmake:130 (cmake_policy):
+  The OLD behavior for policy CMP0015 will be removed from a future version
+  of CMake.
+
+  The cmake-policies(7) manual explains that the OLD behaviors of all
+  policies are deprecated and that a policy should be set to OLD only under
+  specific short-term circumstances.  Projects should be ported to the NEW
+  behavior and not rely on setting a policy to OLD.
+Call Stack (most recent call first):
+  CMakeLists.txt:62 (ci_make_app)
+
+
+CMake Deprecation Warning at C:/Users/banna/Cinder/proj/cmake/modules/cinderMakeApp.cmake:130 (cmake_policy):
+  The OLD behavior for policy CMP0015 will be removed from a future version
+  of CMake.
+
+  The cmake-policies(7) manual explains that the OLD behaviors of all
+  policies are deprecated and that a policy should be set to OLD only under
+  specific short-term circumstances.  Projects should be ported to the NEW
+  behavior and not rely on setting a policy to OLD.
+Call Stack (most recent call first):
+  CMakeLists.txt:69 (ci_make_app)
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/banna/CLionProjects/fluff run/cmake-build-debug

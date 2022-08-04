@@ -1,0 +1,4 @@
+ToolSet: 14.0 (local)@C:\Program Files (x86)\Microsoft Visual Studio 14.0
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.1.2/bin/ninja/win/ninja.exe
